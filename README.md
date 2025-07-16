@@ -6,3 +6,5 @@ Este programa te reta a descubrir un número secreto generado aleatoriamente den
 
 Es un ejemplo claro y modular de cómo estructurar un programa en Python utilizando funciones, validación de datos y manejo de errores de forma sencilla pero efectiva. Ideal para quienes se inician en la programación y desean practicar la interacción con el usuario mientras se divierten un rato.
 
+## Indice de masa corporal
+Calculadora interactiva de Índice de Masa Corporal (IMC) en Python con soporte para sistema métrico e imperial. Muestra resultados con un diseño enmarcado en consola, validación de datos y navegación sencilla mediante un menú interactivo, ideal si se busca comprender de mejor manera el flujo de control de un programa.
